@@ -18,13 +18,13 @@ print("-"*42)
 ####script####
 
 def main():
-    remote_host = input('the target please :')
+    remote_host = input('Enter The Target :')
 
     try:
         print("IP Address Of " + remote_host + " is " + socket.gethostbyname(remote_host))
 
     except socket.error as e:
-        print("Error " , e)
+        print("Error" , e)
 
 
 
