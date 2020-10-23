@@ -2,8 +2,6 @@
 
 it's a tool made by omar salah to help hackers and progammers.
 
-## Logo:
-
 [![SeVen](https://media.giphy.com/media/OAp6rhENsX8QganCZ2/giphy.gif)
 
 ## SeVen 0.1v:
