@@ -6,8 +6,6 @@ it's a tool made by omar salah to help hackers and progammers.
 
 [![SeVen](https://media.giphy.com/media/OAp6rhENsX8QganCZ2/giphy.gif)
 
-it's the first version 0.1v
-
 ## SeVen 0.1v:
 
 it's the first version from omar salah made by python
