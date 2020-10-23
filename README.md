@@ -20,8 +20,8 @@ it's the first version from omar salah made by python
 
 ## tutorial
 
->>apt install
-git
+>>apt install git
+
 >>apt install python3
 
 >>git clone https://github.com/OmarSalah413/SeVen.git
