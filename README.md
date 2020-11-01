@@ -4,9 +4,11 @@ it's a tool made by omar salah to help hackers and progammers.
 
 ![SeVen](https://media.giphy.com/media/OAp6rhENsX8QganCZ2/giphy.gif)
 
-## SeVen 0.1v:
+## SeVen 0.6v:
 
-it's the first version from omar salah made by python
+ -We Have A New Logo !!!
+ 
+ -And Fast Grabbing For Host Ip
 
 ## The devices
 
