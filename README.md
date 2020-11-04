@@ -18,12 +18,12 @@ it's a tool made by omar salah to help hackers and progammers.
 
 ## tutorial
 
->>apt install git
+>>>apt install git
 
->>apt install python3
+>>>apt install python3
 
->>git clone https://github.com/OmarSalah413/SeVen.git
+>>>git clone https://github.com/OmarSalah413/SeVen.git
 
->>cd SeVen
+>>>cd SeVen
 
->>python3 SeVen.py
+>>>python3 SeVen.py
